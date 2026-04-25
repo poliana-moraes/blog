@@ -1,6 +1,5 @@
-# Entenda o protocolo LoRaWAN utilizado em aplicações de internet das coisas.
-*13 de maio de 2019*
-
+# Entenda o protocolo LoRaWAN utilizado em aplicações de internet das coisas
+*13 de maio de 2019*\
 *Por Poliana de Moraes*
 
 Este artigo traz uma visão geral sobre o protocolo LoRaWAN que é amplamente utilizado em aplicações de internet das coisas que necessitam de alcance a longas distâncias como cidades e agricultura.
