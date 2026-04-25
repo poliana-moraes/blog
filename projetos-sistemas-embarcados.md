@@ -1,5 +1,5 @@
 # Metodologias ágeis aplicadas a projetos de Sistemas Embarcados
-*06 de maio de 2019*
+*06 de maio de 2019*\
 *Por Poliana de Moraes*
 
 Atualmente utiliza-se o termo VUCA para descrever as intensas e rápidas transformações as quais o mundo atravessa. Este acrônimo do inglês descreve quatro características que vivenciamos diariamente:  
