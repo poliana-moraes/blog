@@ -1,6 +1,6 @@
-# Índice
+# Lista de Conteúdo
 
-[ Como tomar decisão de qual método você autentica e autoriza um acesso do ponto de vista de segurança - 20 de abril de 2026](metodos-autenticacao.md) \
+[Como tomar decisão de qual método você autentica e autoriza um acesso do ponto de vista de segurança - 20 de abril de 2026](metodos-autenticacao.md) \
 \
 [A era digital e os ataques cibernéticos - 03 de junho de 2019](ataques-ciberneticos.md)  \
 \
@@ -10,4 +10,4 @@
 \
 [Cenário da IoT no Brasil para cidades inteligentes - 29 de abril de 2019](cidades-inteligentes.md) \
 \
-[Como o protocolo LoRaWAN garante a segurança dos dados - 20 de maio de 2019](segurança-lorawan.md) \
+[Como o protocolo LoRaWAN garante a segurança dos dados - 20 de maio de 2019](segurança-lorawan.md)
